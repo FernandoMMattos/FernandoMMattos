@@ -1,6 +1,6 @@
 # Fernando M. Mattos
 
-💻 Full Stack Developer · React · Next.js · TypeScript · Firebase  
+💻 Full Stack Developer · React · Next.js · TypeScript · Node.js  
 🇮🇪 Based in Dublin | 🇮🇹 EU Citizen | 📬 fmanfrinmattos@gmail.com  
 
 [Portfolio](https://fernandommattos.vercel.app) • [GitHub](https://github.com/FernandoMMattos) • [LinkedIn](https://linkedin.com/in/fernandommattos) • [Alura Certificates](https://cursos.alura.com.br/user/f-manfrinm/fullCertificate/f09ee96e7afc347e936539bc88ee9870)
@@ -34,7 +34,7 @@ Currently focusing on **React**, **Next.js**, **TypeScript**, and **Firebase**, 
 JavaScript · TypeScript · HTML · CSS · Python · Java · C++
 
 **Frameworks & Tools:**  
-React · Next.js · Angular · Vue.js · Node.js · Express · React Native · Django · Firebase · Firestore · MongoDB · MySQL · Git · REST APIs · Figma · WordPress
+React · Next.js · Angular · Vue.js · Node.js · Express · React Native · Django · Firebase · Firestore · MongoDB · MySQL · Prisma · Express.js · Git · REST APIs · Figma · WordPress
 
 ---
 
