@@ -34,7 +34,7 @@ Currently focusing on **React**, **Next.js**, **TypeScript**, and **Firebase**, 
 JavaScript · TypeScript · HTML · CSS · Python · Java · C++
 
 **Frameworks & Tools:**  
-React · Next.js · Angular · Vue.js · Node.js · Express · React Native · Django · Firebase · Firestore · MongoDB · MySQL · Prisma · Express.js · Git · REST APIs · Figma · WordPress
+React · Next.js · Angular · Vue.js · Node.js · Express · React Native · Django · Firebase · Firestore · MongoDB · MySQL · Prisma · Git · REST APIs · Figma · WordPress
 
 ---
 
